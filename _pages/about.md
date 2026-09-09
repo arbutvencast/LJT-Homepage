@@ -17,16 +17,9 @@ Research experience
 - Research Intern, Tencent WXG (Jun 2024–Sep 2024)
 - Research Intern, Shanghai AI Lab (Jun 2023–Dec 2023)
 
-Recent publications
+Publications
 
-- SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (2025, first author)
-- On the Perception Bottleneck of VLMs for Chart Understanding (2025, first author)
-- On the Universal Truthfulness Hyperplane Inside LLMs (EMNLP 2024, first author)
-- In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation (ICML 2024, co-author)
-- C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models (NeurIPS 2023, co-author)
-- Composing Parameter-Efficient Modules with Arithmetic Operations (NeurIPS 2023, co-author)
-
-For the full list with individual pages, see the Publications section.
+My publications are maintained on the Publications page, and selected works are also included in the CV data. This keeps the landing page focused while still recording publications as part of my profile.
 
 Skills
 
